@@ -1,4 +1,4 @@
-# OPTC
+# OPTC Skillup Programs
 
 Programs for One Piece Treasure Cruise:
 
